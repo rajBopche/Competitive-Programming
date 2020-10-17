@@ -1,3 +1,3 @@
 fun main() {
-    println(SalesByMatch().countPairsOfSocksOfDifferentColors(arrayOf(10 ,20 ,20 ,10 ,10 ,30 ,50 ,10 ,20)))
+    println(JumpingOnClouds().jumpingOnClouds(arrayOf(0, 0, 0, 1, 0,0)))
 }
