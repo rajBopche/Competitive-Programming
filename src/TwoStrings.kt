@@ -5,7 +5,7 @@ class TwoStrings {
         var subStringExist = "NO"
 
         allAlphabets.forEach { char ->
-            if (s1.indexOf(char) > -1 && s2.indexOf(char) > -1) {
+            if (s1.contains(char) && s2.contains(char)) {
                 subStringExist = "YES"
                 return@forEach
             }
