@@ -1,3 +1,5 @@
+package problems
+
 class RepeatedString {
 
     fun repeatedString(s: String, n: Long): Long {

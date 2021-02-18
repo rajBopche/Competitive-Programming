@@ -1,3 +1,5 @@
+package problems
+
 import kotlin.math.floor
 
 class SalesByMatch {

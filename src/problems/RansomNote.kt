@@ -1,3 +1,5 @@
+package problems
+
 class RansomNote {
 
     fun checkMagazine(magazine: Array<String>, note: Array<String>): Unit {

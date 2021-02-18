@@ -1,3 +1,5 @@
+package problems
+
 class MinimumSwaps {
 
     fun minimumSwaps(arr: Array<Int>): Int {

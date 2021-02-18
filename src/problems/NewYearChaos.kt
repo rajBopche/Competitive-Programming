@@ -1,3 +1,5 @@
+package problems
+
 class NewYearChaos {
 
     fun minimumBribes(q: Array<Int>) {

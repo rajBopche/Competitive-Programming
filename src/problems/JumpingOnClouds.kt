@@ -1,3 +1,5 @@
+package problems
+
 class JumpingOnClouds {
 
     fun jumpingOnClouds(c: Array<Int>): Int {
