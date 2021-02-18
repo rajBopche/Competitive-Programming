@@ -6,7 +6,6 @@ fun main() {
     println(numbers)
 }
 
-
 class BubbleSort {
 
     //The core logic is to compare current element with the adjacent element, and swap if current element is large
@@ -30,5 +29,4 @@ class BubbleSort {
             }
         }
     }
-
 }
