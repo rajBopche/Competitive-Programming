@@ -4,9 +4,7 @@ import java.util.ArrayList;
 
 public class MaximumSumSubArray {
 
-
-
-    public int findAllSubArrayOfArray(ArrayList<Integer> numbers) {
+    public int findMaximumSumSubArray(ArrayList<Integer> numbers) {
 
         int currentSum = 0;
         int maxSum = Integer.MIN_VALUE;
