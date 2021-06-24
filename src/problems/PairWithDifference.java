@@ -6,9 +6,7 @@ import java.util.Collections;
 class PairWithDifference {
 
     public int findIfPairExist(ArrayList<Integer> A, int B) {
-
         Collections.sort(A);
-
         for (Integer num : A) {
             int target = num + B;
             boolean isPresent = binarySearchForTarget(A, target);
